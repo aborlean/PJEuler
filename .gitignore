@@ -33,3 +33,4 @@ main
 *.app
 
 main.dSYM
+.vscode
